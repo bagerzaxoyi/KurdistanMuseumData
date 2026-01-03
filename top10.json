@@ -1,0 +1,2 @@
+cat > top10.json <<'EOF'
+{"ok":true,"generatedAtUtc":"","sevenDays":[],"allTime":[]}
