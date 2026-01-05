@@ -1,13 +1,13 @@
 {
-  "generatedAtUtc": "2026-01-05T04:07:32.000Z",
+  "generatedAtUtc": "2026-01-05T04:08:32.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 996.5333333333333,
+      "score": 997.5333333333333,
       "messages": 46,
-      "voiceSeconds": 59516
+      "voiceSeconds": 59576
     },
     {
       "userId": "361503154837258240",
@@ -29,9 +29,9 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 833.5,
+      "score": 834.5,
       "messages": 31,
-      "voiceSeconds": 49824
+      "voiceSeconds": 49884
     },
     {
       "userId": "1217876350703239288",
@@ -69,9 +69,9 @@
       "userId": "1423118137448071229",
       "displayName": "Serok Donald J.Trump",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1423118137448071229/96da1661b1c05120b6409eec32d3815b.png?size=128",
-      "score": 572.9666666666667,
+      "score": 573.9666666666667,
       "messages": 4,
-      "voiceSeconds": 34354
+      "voiceSeconds": 34414
     },
     {
       "userId": "1432055525482299533",
@@ -87,9 +87,9 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 996.5333333333333,
+      "score": 997.5333333333333,
       "messages": 46,
-      "voiceSeconds": 59516
+      "voiceSeconds": 59576
     },
     {
       "userId": "361503154837258240",
@@ -111,9 +111,9 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 833.5,
+      "score": 834.5,
       "messages": 31,
-      "voiceSeconds": 49824
+      "voiceSeconds": 49884
     },
     {
       "userId": "1217876350703239288",
@@ -151,9 +151,9 @@
       "userId": "1423118137448071229",
       "displayName": "Serok Donald J.Trump",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1423118137448071229/96da1661b1c05120b6409eec32d3815b.png?size=128",
-      "score": 572.9666666666667,
+      "score": 573.9666666666667,
       "messages": 4,
-      "voiceSeconds": 34354
+      "voiceSeconds": 34414
     },
     {
       "userId": "1432055525482299533",
