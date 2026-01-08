@@ -1,20 +1,20 @@
 {
-  "generatedAtUtc": "2026-01-08T04:16:29.000Z",
+  "generatedAtUtc": "2026-01-08T04:17:29.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3440.683333333333,
-      "messages": 277,
+      "score": 3441.083333333333,
+      "messages": 281,
       "voiceSeconds": 204779
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3186.5166666666664,
-      "messages": 107,
+      "score": 3186.8166666666666,
+      "messages": 110,
       "voiceSeconds": 190549
     },
     {
@@ -77,8 +77,8 @@
       "userId": "1431333749450346657",
       "displayName": "Badinism",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1431333749450346657/2b97619a4c33fbe7221a776457a544f7.png?size=128",
-      "score": 1385.2666666666667,
-      "messages": 76,
+      "score": 1385.3666666666668,
+      "messages": 77,
       "voiceSeconds": 82660
     }
   ],
@@ -87,16 +87,16 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3440.683333333333,
-      "messages": 277,
+      "score": 3441.083333333333,
+      "messages": 281,
       "voiceSeconds": 204779
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3186.5166666666664,
-      "messages": 107,
+      "score": 3186.8166666666666,
+      "messages": 110,
       "voiceSeconds": 190549
     },
     {
@@ -159,8 +159,8 @@
       "userId": "1431333749450346657",
       "displayName": "Badinism",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1431333749450346657/2b97619a4c33fbe7221a776457a544f7.png?size=128",
-      "score": 1385.2666666666667,
-      "messages": 76,
+      "score": 1385.3666666666668,
+      "messages": 77,
       "voiceSeconds": 82660
     }
   ]
