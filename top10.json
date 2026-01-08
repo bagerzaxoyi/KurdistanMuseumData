@@ -1,29 +1,29 @@
 {
-  "generatedAtUtc": "2026-01-08T16:55:41.000Z",
+  "generatedAtUtc": "2026-01-08T16:56:41.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3461.95,
+      "score": 3462.133333333333,
       "messages": 366,
-      "voiceSeconds": 205521
+      "voiceSeconds": 205532
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3249.233333333333,
+      "score": 3250.233333333333,
       "messages": 131,
-      "voiceSeconds": 194168
+      "voiceSeconds": 194228
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 3089.8166666666666,
+      "score": 3090.8166666666666,
       "messages": 212,
-      "voiceSeconds": 184117
+      "voiceSeconds": 184177
     },
     {
       "userId": "361503154837258240",
@@ -37,9 +37,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 2079.2833333333333,
+      "score": 2080.2833333333333,
       "messages": 36,
-      "voiceSeconds": 124541
+      "voiceSeconds": 124601
     },
     {
       "userId": "551765509226496016",
@@ -87,25 +87,25 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3461.95,
+      "score": 3462.133333333333,
       "messages": 366,
-      "voiceSeconds": 205521
+      "voiceSeconds": 205532
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3249.233333333333,
+      "score": 3250.233333333333,
       "messages": 131,
-      "voiceSeconds": 194168
+      "voiceSeconds": 194228
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 3089.8166666666666,
+      "score": 3090.8166666666666,
       "messages": 212,
-      "voiceSeconds": 184117
+      "voiceSeconds": 184177
     },
     {
       "userId": "361503154837258240",
@@ -119,9 +119,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 2079.2833333333333,
+      "score": 2080.2833333333333,
       "messages": 36,
-      "voiceSeconds": 124541
+      "voiceSeconds": 124601
     },
     {
       "userId": "551765509226496016",
