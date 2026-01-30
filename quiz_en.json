@@ -34,8 +34,8 @@
     },
     {
       "id": "kurd_q006",
-      "question": "The historic city of 'Amed' is famous for its ancient walls. What is this city known as in other contexts?",
-      "choices": ["Amed", "Hewlêr", "Silêmanî", "Qamişlo"],
+      "question": "Amed is a historic city traditionally associated with which region?",
+      "choices": ["Upper Mesopotamia", "Anatolian Plateau", "Caucasus", "Levantine Coast"],
       "correctIndex": 0
     },
     {
@@ -622,13 +622,13 @@
     },
     {
       "id": "kurd_q104",
-      "question": "Who is often considered the first female Kurdish historian and wrote the history of the Ardalan dynasty?",
+      "question": "Who is often considered the first female Kurdish historian?",
       "choices": ["Mastoureh Ardalan", "Leyla Zana", "Rewşan Bedirxan", "Xanê Lebzêrîn"],
       "correctIndex": 0
     },
     {
       "id": "kurd_q105",
-      "question": "The city of 'Dersim' is famous for its unique geography and the 'Munzur' river. What is the traditional name of the region?",
+      "question": "The city is famous for its unique geography and the 'Munzur' river. What is the traditional name of the region?",
       "choices": ["Dersim", "Xarpêt", "Çewlîg", "Erzirom"],
       "correctIndex": 0
     },
@@ -652,8 +652,8 @@
     },
     {
       "id": "kurd_q109",
-      "question": "The famous Kurdish philosopher and polymath Al-Dinawari was born in which city?",
-      "choices": ["Dînewer (near Kirmanşah)", "Amed", "Hewlêr", "Şarezûr"],
+      "question": "Which city was the birthplace of the 9th-century Kurdish philosopher and polymath Abu Hanifa?",
+      "choices": ["Dînewer", "Amed", "Hewlêr", "Şarezûr"],
       "correctIndex": 0
     },
     {
@@ -706,7 +706,7 @@
     },
     {
       "id": "kurd_q118",
-      "question": "Which Kurdish city is known for its historical 'Qaslo' (citadel) and being a hub in Rojava?",
+      "question": "Which city in Rojava has historically played a central role in Kurdish political and cultural life?",
       "choices": ["Qamişlo", "Hesekê", "Dêrik", "Amûdê"],
       "correctIndex": 0
     },
@@ -748,7 +748,7 @@
     },
     {
       "id": "kurd_q125",
-      "question": "Which city is historically associated with the 'Republic of Mahabad' (1946)?",
+      "question": "Which city served as the capital of the short-lived Kurdish republic established in 1946?",
       "choices": ["Mahabad", "Sine", "Bokan", "Saqqez"],
       "correctIndex": 0
     },
@@ -874,7 +874,7 @@
     },
     {
       "id": "kurd_q146",
-      "question": "Which Kurdish city is historically known for its resistance and is called 'Kobanî'?",
+      "question": "Which Kurdish city became internationally known for its resistance during the fight against ISIS in 2014?",
       "choices": ["Kobanî", "Efrîn", "Cizîr", "Qamişlo"],
       "correctIndex": 0
     },
