@@ -40,7 +40,7 @@
     },
     {
       "id": "kurd_q007",
-      "question": "Which Kurdish poet is famous for his work 'Dîwana Melayê Cizîrî' in the 16th century?",
+      "question": "Which Kurdish poet is famous for his work 'Dîwana ................' in the 16th century?",
       "choices": ["Melayê Cizîrî", "Feqiyê Teyran", "Ehmedê Xanî", "Baba Tahir"],
       "correctIndex": 0
     },
@@ -262,7 +262,7 @@
     },
     {
       "id": "kurd_q044",
-      "question": "Which Kurdish city is historically known as 'Dersim'?",
+      "question": "Which Kurdish city is historically known as 'Tunceli'?",
       "choices": ["Dersim", "Xarpêt", "Bîngol", "Erzirom"],
       "correctIndex": 0
     },
@@ -1201,6 +1201,12 @@
       "question": "What is the Kurdish word for 'Purity' or 'White'?",
       "choices": ["Spî", "Reş", "Sor", "Zer"],
       "correctIndex": 0
-    }
+    },
+    {
+      "id": "kurd_q201",
+      "question": "Who founded the city of Slemanî?",
+      "choices": ["Ibrahim Pasha Baban", "Sulaiman Pasha", "Jalal Talabani", "Mahmud Barzanji"],
+      "correctIndex": 0
+    } 
   ]
 }
